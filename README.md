@@ -30,6 +30,7 @@ The picture at the top is a small DPD simulation of two kinds of beads that sepa
 - [Simulations for industry](https://kourosh-h.github.io/industry.html): how molecular models can help R&D teams, with examples from nine industries
 - [Learn](https://kourosh-h.github.io/learn.html): explainers on MD, statistical mechanics, analysis, coarse-graining, DPD, enhanced sampling, and more, in five tracks
 - [Playground](https://kourosh-h.github.io/playground.html): 44 small simulations and machine learning demos that run in the browser
+- [Bead Lab](https://kourosh-h.github.io/bead-lab.html): an iPhone app with eight simulations that run live on the phone, from a Lennard-Jones liquid to Gray-Scott patterns
 - [Projects](https://kourosh-h.github.io/projects.html): 35 numbered projects, 13 small simulations, 13 analysis tools, and a few extras, which you can filter and search
 
 #### Peer-reviewed papers
