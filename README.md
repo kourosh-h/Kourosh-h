@@ -64,7 +64,7 @@ apadana build --chain-length 4 5 6 7 8 --coverage 0.45 2.40 --seed 1 --processes
 #### Simulation methods
 
 - **Methods I use.** All-atom molecular dynamics (MD) in GROMACS and LAMMPS, coarse-grained MD, and dissipative particle dynamics (DPD), which together take a system from single molecules up to whole films. I use quantum chemistry in ORCA to fit and check force field terms, and I analyze structure and dynamics, from order parameters and density profiles to the water next to a surface.
-- **Emerging methods.** Machine learning interatomic potentials such as MACE, trained on quantum chemistry data and tested in MD. Next to these come active learning and machine-learned coarse-grained models. I am adding these to my work one project at a time. I am also learning plane-wave DFT for crystals and surfaces, enhanced sampling with PLUMED, and Bayesian optimization for choosing the next experiment.
+- **Emerging methods.** Machine learning interatomic potentials such as MACE, trained on quantum chemistry data and tested in MD. Next to these come active learning and machine-learned coarse-grained models. I am adding these to my work one project at a time. I am also learning plane-wave DFT for crystals and surfaces, enhanced sampling with PLUMED, simulations of proteins and electrolytes, and Bayesian optimization for choosing the next experiment.
 
 #### Tools
 
