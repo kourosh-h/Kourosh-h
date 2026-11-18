@@ -17,7 +17,7 @@ In my doctoral work, I used all-atom molecular dynamics, coarse-grained models, 
 
 - **Research.** Coatings, monolayers on silica, and polymer/graphene interfaces. For the monolayers, I wrote [apadana](https://github.com/Kourosh-h/apadana-v4), a Python package with a command-line tool that builds the models and every file needed to run them in GROMACS.
 - **Industry.** I worked on the simulations in coating projects with Kemira, and I enjoy work where simulations help to decide what to make next.
-- **Teaching.** I developed course material for Soft Materials Modelling and Computational Chemistry I, advised five B.Sc. theses, and I write explainers with simulations that run in the browser.
+- **Teaching.** I developed course material for Soft Materials Modelling and Computational Chemistry I, advised five B.Sc. theses, and I write explainers with simulations that run in the browser. My [DPD teaching notebooks](https://github.com/Kourosh-h/dpd-teaching) start from a DPD fluid written in NumPy and end with a block copolymer coating that assembles on a substrate. They run on Colab and have exercises with worked solutions.
 - **Machine learning.** This is a growing part of my work, and I am building it up as a series of projects on molecules and simulations.
 
 The picture at the top is a small DPD simulation of two kinds of beads that separate, made with a short NumPy script. It also opens my website.
