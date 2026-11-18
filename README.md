@@ -36,7 +36,7 @@ The picture at the top is a small DPD simulation of two kinds of beads that sepa
 
 #### Peer-reviewed papers
 
-- Hydration-enhanced chain length effects in short alkyl chain self-assembled monolayers on silica. **K. Hasheminejad**, D. Tolmachev, M. Sammalkorpi. Submitted to *J. Colloid Interface Sci.*, in review (2026). [explained](https://kourosh-h.github.io/research.html#p4)
+- Coverage and chain parity govern the hydration response of short alkylsilane monolayers on silica. **K. Hasheminejad**, D. Tolmachev, M. Sammalkorpi. Submitted to *J. Colloid Interface Sci.*, in review (2026). [explained](https://kourosh-h.github.io/research.html#p4)
 - Molecular level dependencies of water permeability in di-block copolymer assemblies. **K. Hasheminejad**, Y. Morais Jaques, A. Lepo, A. Scacchi, M. Sammalkorpi. *Comput. Mater. Sci.* 258, 114046 (2025). [doi](https://doi.org/10.1016/j.commatsci.2025.114046) · [explained](https://kourosh-h.github.io/research.html#p3)
 - Cracking polymer coatings of paper-like surfaces: Control via block co-polymer structure and system composition. **K. Hasheminejad**, A. Scacchi, S. Javan Nikkhah, M. Sammalkorpi. *Appl. Surf. Sci.* 640, 158324 (2023). [doi](https://doi.org/10.1016/j.apsusc.2023.158324) · [explained](https://kourosh-h.github.io/research.html#p2)
 - Controlling self-assembling co-polymer coatings of hydrophilic polysaccharide substrates via co-polymer block length ratio. A. Scacchi, **K. Hasheminejad**, S. Javan Nikkhah, M. Sammalkorpi. *J. Colloid Interface Sci.* 640, 809-819 (2023). [doi](https://doi.org/10.1016/j.jcis.2023.02.117) · [explained](https://kourosh-h.github.io/research.html#p1)
