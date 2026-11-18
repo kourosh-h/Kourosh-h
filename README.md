@@ -32,6 +32,7 @@ The picture at the top is a small DPD simulation of two kinds of beads that sepa
 - [Playground](https://kourosh-h.github.io/playground.html): 44 small simulations and machine learning demos that run in the browser
 - [Bead Lab](https://kourosh-h.github.io/bead-lab.html): an iPhone app with eight simulations that run live on the phone, from a Lennard-Jones liquid to Gray-Scott patterns, written in Swift ([code](https://github.com/Kourosh-h/bead-lab))
 - [Projects](https://kourosh-h.github.io/projects.html): 35 numbered projects, 13 small simulations, 13 analysis tools, and a few extras, which you can filter and search
+- [AI use](https://kourosh-h.github.io/ai-use.html): where AI helps in research and simulation, how to use it well, its downsides, and what to be careful about
 
 #### Peer-reviewed papers
 
